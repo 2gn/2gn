@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @2gn
-- 👀 I’m interested in high-level programming languages (like javascript or python).
-- 🌱 I’m currently learning `javascript`
-- 💞️ I’m looking to collaborate on some opensource projects.
+- 👀 I’m interested in high-level programming languages (like javascript or python) and package management.
+- 🌱 I’m currently learning `nix`.
+- 💞️ I’m looking to collaborate on some open-sourced projects.
 - ✨ I have shiny-object syndrome.
 
 <!---
