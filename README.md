@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on some open-sourced projects.
 - ✨ I have shiny-object syndrome.
 
-And the following widget represents the noobiness of mine.
-
 [![2gn's GitHub stats](https://github-readme-stats.vercel.app/api?username=2gn&theme=material-palenight&show_icons=true)](https://github.com/2gn)
 
 <!---
