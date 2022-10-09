@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2gn
-- 👀 I’m interested in low-level programming languages (like c and rust, although not good at them) and package management.
+- 👀 I’m interested in Rust
 - 🌱 I’m currently learning `nix`.
 - 💞️ I’m looking to collaborate on some open-sourced projects.
 - ✨ I have shiny-object syndrome.
