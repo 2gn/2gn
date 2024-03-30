@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @2gn
-- 👀 I’m interested in Rust
-- 🌱 I’m currently learning `nix`.
-- 💞️ I’m looking to collaborate on some open-sourced projects.
+- 👀 I’m interested in collaborating with people on open-source communities.
+- 🌱 I’m currently learning software engineering, ethical hacking and network programming.
+- 💞️ I'm trying to be an alpha geek.
 - ✨ I have shiny-object syndrome.
 
 [![2gn's GitHub stats](https://github-readme-stats.vercel.app/api?username=2gn&theme=material-palenight&show_icons=true)](https://github.com/2gn)
