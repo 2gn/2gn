@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2gn
+- 👋 Hi, I’m @2gn, a wrong-grammerer
 - 👀 I’m interested in collaborating with people on open-source communities.
 - 🌱 I’m currently learning software engineering, ethical hacking and network programming.
 - 💞️ I'm trying to be an alpha geek.
