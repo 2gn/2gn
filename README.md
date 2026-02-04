@@ -1,6 +1,6 @@
 - Undergrad student @ SIT
 
-[![2gn's GitHub stats](https://github-readme-stats.vercel.app/api?username=2gn&theme=material-palenight&show_icons=true)](https://github.com/2gn)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=2gn&show_icons=true&theme=gruvbox)
 
 <!---
 2gn/2gn is a  special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
