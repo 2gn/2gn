@@ -6,3 +6,11 @@
 2gn/2gn is a  special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<iframe
+    src="https://listenbrainz.org/user/trees/embed/playing-now"
+    frameborder="0"
+    width="650"
+    height="80"
+></iframe>
