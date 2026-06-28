@@ -1,4 +1,4 @@
-- Undergrad student @ SIT
+- Undergrad student @ [SIT](https://www.shibaura-it.ac.jp)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=2gn&show_icons=true&theme=gruvbox)
 
