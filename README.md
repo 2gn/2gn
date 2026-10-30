@@ -1,6 +1,6 @@
 - Undergrad student @ [SIT](https://www.shibaura-it.ac.jp)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=2gn&show_icons=true&theme=gruvbox)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=2gn)
 
 <!---
 2gn/2gn is a  special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
